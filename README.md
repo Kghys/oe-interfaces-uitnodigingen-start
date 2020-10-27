@@ -27,5 +27,5 @@ Voorzie eveneens een service klasse (ik gaf deze de naam Contacts) waarin je wat
 In je WPF vul je de listbox met je contacten.  Het vullen van de contacten gebeurt aan de hand van een filter (cmbFilter) die je tijdens de opstart manueel vult (zie demo voor de verschillende waarden).  
 
 Wanneer je een persoon selecteert in de listbox dan dient zijn info (= tostring) in tbkInfo te verschijnen.  
-Wanneer je op btnBirthday klikt dient een uitnodiging aangemaakt te worden voor alle personen die de IBirthayInvitation implementeren en afgebeeld te worden in tbkInvitations (zie demo).
+Wanneer je op btnBirthday klikt dient een uitnodiging aangemaakt te worden voor alle personen die de IBirthayInvitation implementeren en afgebeeld te worden in tbkInvitations (zie demo).  
 Wanneer je op btnExhibition klikt dient een uitnodiging gemaakt te worden voor alle personen die de IBusinessInvitation implemnteren en afgebeeld te worden in tbkInvitations (zie demo).
